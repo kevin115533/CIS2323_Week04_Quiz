@@ -38,7 +38,7 @@ public class Person {
 	}
 	
 	public String getPersonInfo(){
-		return "First Name:" + firstName + "\n"
+		return "First Name: " + firstName + "\n"
 		+ "Last Name: " + lastName + "\n"
 		+ "Age: " + age + "\n"
 		+ "Sex: " + sex; 
